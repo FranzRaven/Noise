@@ -1,5 +1,7 @@
-.wav 
-.Wav
-.flac
-.ogg
-.mp3
+*.wav 
+*.Wav
+*.flac
+*.ogg
+*.mp3
+#*.aif
+#*aiff
